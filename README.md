@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgeLxL
-- 👀 I’m interested in Python, C# and Web developing
+- 👀 I’m interested in Python, C# and Web developing.
 - 🌱 I’m currently learning Django.
 - 📫 How to reach me geolxl@hotmail.com
 
