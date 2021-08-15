@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgeLxL http://george6.great-site.net/
+- 👋 Hi, I’m @GeorgeLxL https://sato-takeru.herokuapp.com/
 - 👀 I’m interested in Python, C# and Web developing.
 - 🌱 I’m currently learning Django.
 - 📫 How to reach me geolxl@hotmail.com
