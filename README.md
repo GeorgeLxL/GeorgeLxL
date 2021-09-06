@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GeorgeLxL https://sato-takeru.herokuapp.com/
-- 👀 I’m interested in Python, C# and Web developing.
-- 🌱 I’m currently learning Django.
-- 📫 How to reach me geolxl@hotmail.com
+- 👋 Hi, I’m Sato Takeru. https://sato-takeru.herokuapp.com/
+- 👀 I am a passionate business administrator who was aworded MBA degree.
+- 🌱 I am familiar with NodeJs, Python, C#, and PHP.
 
 <!---
 GeorgeLxL/GeorgeLxL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
