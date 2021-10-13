@@ -1,7 +1,7 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ExpertBC.ExpertBC" />
-<img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GeorgeLxL.GeorgeLxL" />
+<img align="right" src="https://img.shields.io/github/followers/GeorgeLxL?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GeorgeLxL&theme=github&count_private=true" />
 
 
 
