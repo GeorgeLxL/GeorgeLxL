@@ -2,7 +2,7 @@
 <div>
     <div style="display: flex; justify-content: space-between;">
         <img height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=GeorgeLxL.GeorgeLxL" />
-        <img height="20px" src="https://img.shields.io/github/followers/GeorgeLxL?label=Follow&style=social" />
+        <img float="right" height="20px" src="https://img.shields.io/github/followers/GeorgeLxL?label=Follow&style=social" />
     </div>
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GeorgeLxL&theme=github&count_private=true" />
 </div>
