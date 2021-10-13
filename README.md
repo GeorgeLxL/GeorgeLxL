@@ -3,11 +3,7 @@
 <h1 align="center"></h1>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GeorgeLxL&theme=github&count_private=true" />
 
-
-
-<img height="150px" />
-
-<h2 font-weight="bold" style="display: block; text-align: center;">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
