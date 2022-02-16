@@ -16,27 +16,27 @@
         <td><img src="https://img.icons8.com/color/2x/java-coffee-cup-logo--v2.png" width="100" alt="java"></td>
         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript"></td>
         <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/php.png" width="100" alt="PHP"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
-        <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
         <td><img src="https://img.icons8.com/color/2x/django.png" width="100" alt="Django"></td>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"></td>
+        <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
+        <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="100" alt="Solidity"></td>
+        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/452/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" width="100" alt="Rust"></td>
+        <td><img src="https://img.icons8.com/nolan/64/haskell.png" width="100" alt="Haskell"></td>
     </tr>
     <tr>
-        <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
+        <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
         <td><img src="https://img.icons8.com/color/2x/tensorflow.png" width="100" alt="TensorFlow"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100" alt="Pycharm"></td>
         <td><img src="https://img.icons8.com/color/2x/sass.png" width="100" alt="Sass"></td>
         <td><img src="https://img.icons8.com/ios-filled/2x/flask.png" width="100" alt="Flask"></td>
         <td><img src="https://img.icons8.com/color/2x/visual-studio.png" width="100" alt="Visual Studio"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/asp.png" width="100" alt="ASP.net"></td>
         <td><img src="https://img.icons8.com/nolan/2x/adobe-photoshop.png" width="100" alt="Photoshop"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100" alt="Laravel"></td>
         <td><img src="https://img.icons8.com/nolan/2x/wordpress.png" width="100" alt="WordPress"></td>
         <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="100" alt="C"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
     </tr>
 </table>
 
@@ -48,7 +48,7 @@
 ### Full-stack web development(Me*n, Django)
 <br />
 
-### Artificial Intelligence Python
+### Blockchain development
 <br />
 
 ### Data Science Python
@@ -58,4 +58,3 @@
 <br />
 
 </div>
-
