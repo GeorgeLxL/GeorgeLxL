@@ -1,60 +1,81 @@
-<p></p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GeorgeLxL.GeorgeLxL" />
-<img align="right" src="https://img.shields.io/github/followers/GeorgeLxL?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GeorgeLxL&theme=github&count_private=true" />
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&layout=compact&theme=merko&count_private=true" />
-<img height="150" />
+# Sato Takeru 💻  
+**ERP • Full-Stack • AI Developer**  
+Kyoto City, Japan  
 
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
-<table>
-    <tr>
-        <td><img src="https://img.icons8.com/color/2x/python--v2.png" width="100" alt="python"></td>
-        <td><img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="100" alt="c-sharp"></td>
-        <td><img src="https://img.icons8.com/color/2x/java-coffee-cup-logo--v2.png" width="100" alt="java"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/django.png" width="100" alt="Django"></td>
-        <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
-        <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="100" alt="Solidity"></td>
-        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/452/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" width="100" alt="Rust"></td>
-        <td><img src="https://img.icons8.com/nolan/64/haskell.png" width="100" alt="Haskell"></td>
-    </tr>
-    <tr>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
-        <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
-        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" width="100" alt="TensorFlow"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100" alt="Pycharm"></td>
-        <td><img src="https://img.icons8.com/color/2x/sass.png" width="100" alt="Sass"></td>
-        <td><img src="https://img.icons8.com/ios-filled/2x/flask.png" width="100" alt="Flask"></td>
-        <td><img src="https://img.icons8.com/color/2x/visual-studio.png" width="100" alt="Visual Studio"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/adobe-photoshop.png" width="100" alt="Photoshop"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100" alt="Laravel"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/wordpress.png" width="100" alt="WordPress"></td>
-        <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="100" alt="C"></td>
-    </tr>
-</table>
+[Email Me](mailto:crownelf4@gmail.com) | [Portfolio](https://sato-takeru.netlify.app) | [GitHub](https://github.com/GeorgeLxL)
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+---
 
-<div>
-<img align="right" alt="GIF" src="https://github.com/GeorgeLxL/GeorgeLxL/blob/main/code.gif?raw=true" width="400" />
-    
-### Full-stack web development(Me*n, Django)
-<br />
+## 👋 About Me
+I am a Senior Software Engineer with 10+ years of experience in **ERP systems, full-stack web development, and AI-powered applications**. I have progressed from **Frontend Developer to CTO**, leading engineering teams and delivering scalable enterprise solutions. I am passionate about **building efficient, high-performance software** and exploring new AI technologies.
 
-### Blockchain development
-<br />
+---
 
-### Data Science Python
-<br />
+## 🛠 Core Expertise
+- ERP Systems Development  
+- Full-Stack Web Development (React, Angular, Node.js, Django)  
+- AI Integration & Automation  
+- Software Architecture & Scalability  
+- Technical Leadership & Team Management  
+- Agile Development & Product Delivery  
 
-### PHP(Laravel, Wordpress)
-<br />
+---
 
-</div>
+## 💻 Technical Skills
+
+**Languages:** JavaScript / TypeScript | Python | Java | C / C++ | C# | SQL  
+**Frontend:** React | Angular | Next.js | HTML5 | CSS | Tailwind CSS  
+**Backend:** Node.js | Express | Python | Django | Flask | FastAPI  
+**Databases:** PostgreSQL | MySQL | MongoDB  
+**Testing:** Playwright | Cypress | Mocha | Jest | Chai  
+**Tools & Platforms:** Git/GitHub/GitLab | Docker | Linux | CI/CD  
+
+---
+
+## 🚀 Professional Experience
+
+### **Chief Technology Officer (CTO) – Invicta** (2021 – 2023)
+- Led engineering strategy and architecture for company platforms  
+- Managed development teams and coordinated product delivery  
+- Oversaw system scalability, infrastructure, and product roadmap  
+- Implemented modern web technologies and optimized workflows  
+
+### **Technical Lead – God-Tech** (2018 – 2021)
+- Designed enterprise web applications and backend systems  
+- Built scalable APIs and integrated multiple enterprise services  
+- Mentored engineers and coordinated technical decisions  
+
+### **Project Manager – Innovators** (2016 – 2018)
+- Managed teams and project delivery timelines  
+- Coordinated engineering and business teams to ensure successful product delivery  
+
+### **Frontend Lead / Developer – Innovators** (2013 – 2016)
+- Led frontend development, designed UI architecture, and implemented responsive interfaces  
+- Collaborated with backend teams to integrate APIs  
+
+---
+
+## 🌐 Projects & Open Source
+Check out some of my work:
+
+- **ERP Tools & AI Projects** – [GitHub Repositories](https://github.com/GeorgeLxL)  
+- **Portfolio Website** – [sato-takeru.netlify.app](https://sato-takeru.netlify.app)  
+
+Projects demonstrate **full-stack development, ERP solutions, AI integrations**, and modern web design.
+
+---
+
+## 🌍 Languages
+- English – Professional Working Proficiency  
+- Chinese – Working Proficiency  
+
+---
+
+## 📫 Contact Me
+I am currently **open to new opportunities** in software engineering, ERP systems, full-stack development, and AI integration.  
+
+- Email: [crownelf4@gmail.com](mailto:crownelf4@gmail.com)  
+- Portfolio: [https://sato-takeru.netlify.app](https://sato-takeru.netlify.app)  
+- GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)  
+
+---
