@@ -2,7 +2,7 @@
 **ERP • Full-Stack • AI Developer**  
 Kyoto City, Japan  
 
-[Email Me](mailto:crownelf4@gmail.com) | [Portfolio](https://sato-takeru.netlify.app) | [GitHub](https://github.com/GeorgeLxL)
+[Email Me](mailto:crownelf4@gmail.com) | [Portfolio](https://sato-takeru.netlify.app)
 
 ---
 
