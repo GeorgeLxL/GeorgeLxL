@@ -1,6 +1,5 @@
 # Sato Takeru 💻  
-**ERP • Full-Stack • AI Developer**  
-Kyoto City, Japan  
+**ERP • Full-Stack • AI Developer**
 
 [Email Me](mailto:crownelf4@gmail.com) | [Portfolio](https://sato-takeru.netlify.app)
 
