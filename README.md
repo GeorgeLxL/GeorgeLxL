@@ -6,6 +6,13 @@ Kyoto City, Japan
 
 ---
 
+
+## ⚡ Philosophy
+
+> "Clean code. Fast execution. Real impact."
+
+---
+
 ## 👋 About Me
 I am a Senior Software Engineer with 10+ years of experience in **ERP systems, full-stack web development, and AI-powered applications**. I have progressed from **Frontend Developer to CTO**, leading engineering teams and delivering scalable enterprise solutions. I am passionate about **building efficient, high-performance software** and exploring new AI technologies.
 
@@ -78,9 +85,27 @@ I am currently **open to new opportunities** in software engineering, ERP system
 - Portfolio: [https://sato-takeru.netlify.app](https://sato-takeru.netlify.app)  
 - GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)  
 
+
 ---
 
-<div style="display: flex;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&layout=compact" />
-</div>
+## 📊 GitHub Stats
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true&hide_border=true&count_private=true" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeLxL&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgeLxL&theme=github-compact" />
+</p>
