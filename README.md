@@ -81,6 +81,6 @@ I am currently **open to new opportunities** in software engineering, ERP system
 ---
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&layout=compact" />
 </div>
