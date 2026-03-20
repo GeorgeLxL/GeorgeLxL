@@ -1,10 +1,12 @@
-# Sato Takeru 💻  
-**ERP • Full-Stack • AI Developer**
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=378F2F&height=120&section=header" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ERP+System+Developer;Full-Stack+%7C+AI+Experience&font=Pacifico&center=true&width=850&height=120&color=58cf8f&vCenter=true&size=45" />
+</h1>
 
 [Email Me](mailto:crownelf4@gmail.com) | [Portfolio](https://sato-takeru.netlify.app)
 
 ---
-
 
 ## ⚡ Philosophy
 
@@ -38,67 +40,18 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 ---
 
-## 🚀 Professional Experience
+## 📫 Contact Me 
 
-### **Chief Technology Officer (CTO) – Invicta** (2021 – 2023)
-- Led engineering strategy and architecture for company platforms  
-- Managed development teams and coordinated product delivery  
-- Oversaw system scalability, infrastructure, and product roadmap  
-- Implemented modern web technologies and optimized workflows  
-
-### **Technical Lead – God-Tech** (2018 – 2021)
-- Designed enterprise web applications and backend systems  
-- Built scalable APIs and integrated multiple enterprise services  
-- Mentored engineers and coordinated technical decisions  
-
-### **Project Manager – Innovators** (2016 – 2018)
-- Managed teams and project delivery timelines  
-- Coordinated engineering and business teams to ensure successful product delivery  
-
-### **Frontend Lead / Developer – Innovators** (2013 – 2016)
-- Led frontend development, designed UI architecture, and implemented responsive interfaces  
-- Collaborated with backend teams to integrate APIs  
-
----
-
-## 🌐 Projects & Open Source
-Check out some of my work:
-
-- **ERP Tools & AI Projects** – [GitHub Repositories](https://github.com/GeorgeLxL)  
-- **Portfolio Website** – [sato-takeru.netlify.app](https://sato-takeru.netlify.app)  
-
-Projects demonstrate **full-stack development, ERP solutions, AI integrations**, and modern web design.
-
----
-
-## 🌍 Languages
-- English – Professional Working Proficiency  
-- Chinese – Working Proficiency  
-
----
-
-## 📫 Contact Me
-I am currently **open to new opportunities** in software engineering, ERP systems, full-stack development, and AI integration.  
-
-- Email: [crownelf4@gmail.com](mailto:crownelf4@gmail.com)  
-- Portfolio: [https://sato-takeru.netlify.app](https://sato-takeru.netlify.app)  
-- GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)  
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgeLxL&theme=2077"  display=block width=100% height=auto  alt="Sato Takeru" >
+- Email: [crownelf4@gmail.com](mailto:crownelf4@gmail.com)
+- Portfolio: [https://sato-takeru.netlify.app](https://sato-takeru.netlify.app)
+- GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div display="flex" flexWrap="wrap">
-<img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true&theme=radical" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeLxL&theme=radical" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&langs_count=6&theme=radical&layout=compact" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GeorgeLxL&theme=radical&utcOffset=8" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeorgeLxL&theme=2077" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeorgeLxL&theme=2077" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgeLxL&theme=2077"  display=block width=100% height=auto  alt="Sato Takeru" >
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -112,11 +65,3 @@ I am currently **open to new opportunities** in software engineering, ERP system
     <img alt="GitHub streak stats" src="./profile/streak-light.svg" />
   </picture>
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgeLxL&theme=github-compact" />
-</p>
