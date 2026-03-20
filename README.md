@@ -99,6 +99,19 @@ I am currently **open to new opportunities** in software engineering, ERP system
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeorgeLxL&theme=2077" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeorgeLxL&theme=2077" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <img alt="GitHub streak stats" src="./profile/streak-light.svg" />
+  </picture>
+</div>
 
 ---
 

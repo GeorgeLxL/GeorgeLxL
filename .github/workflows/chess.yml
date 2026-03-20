@@ -1,0 +1,26 @@
+name: Chess Games & Stats Action
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update readme with your chess stats and games
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@main
+        with:
+          CHESS_USERNAME: Zeus
+          COMMIT_USERNAME: 0x0Zeus
+          COMMIT_EMAIL: 10914960+0x0Zeus@users.noreply.github.com
+          COMMIT_MSG: ♟️ Updated README with your chess games
+          GAMES_SIZE: 10
+          SHOW_DATE: true
+          SHOW_FEN: true
+          SHOW_STATS: true
+          SHOW_TIME_CLASS: true

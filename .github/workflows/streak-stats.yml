@@ -1,0 +1,40 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats (light)
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile/streak-light.svg
+          theme: default
+          hide-border: true
+
+      - name: Generate streak stats (dark)
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile/streak-dark.svg
+          theme: dark
+          hide-border: true
+
+      - name: Commit changes
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "10914960+0x0Zeus@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
