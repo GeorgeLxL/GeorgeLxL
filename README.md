@@ -1,7 +1,7 @@
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=378F2F&height=120&section=header" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=1F9F29&height=120&section=header" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ERP+System+Developer;Full-Stack+%7C+AI+Experience&font=Pacifico&center=true&width=850&height=120&color=58cf8f&vCenter=true&size=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;Full-Stack+%7C+Trading+%7C+AI+Experience&font=Pacifico&center=true&width=850&height=120&color=58cf3c&vCenter=true&size=45" />
 </h1>
 
 [Email Me](mailto:crownelf4@gmail.com) | [Portfolio](https://sato-takeru.netlify.app)
@@ -40,11 +40,11 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 ---
 
-## 📫 Contact Me 
+## 📫 Contact Me
 
-- Email: [crownelf4@gmail.com](mailto:crownelf4@gmail.com)
-- Portfolio: [https://sato-takeru.netlify.app](https://sato-takeru.netlify.app)
-- GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)
+- Email: [crownelf4@gmail.com](mailto:crownelf4@gmail.com)  
+- Portfolio: [https://sato-takeru.netlify.app](https://sato-takeru.netlify.app)  
+- GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)  
 
 ---
 
@@ -58,6 +58,11 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
     <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green.svg" />
   </picture>
 </div>
+
+<!-- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true&theme=radical" display="block" height="auto" alt="Sato Takeru" />
+</div> -->
 
 <div align="center">
   <picture>
