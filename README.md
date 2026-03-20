@@ -85,21 +85,20 @@ I am currently **open to new opportunities** in software engineering, ERP system
 - GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)  
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgeLxL&theme=2077"  display=block width=100% height=auto  alt="Sato Takeru" >
+
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true&hide_border=true&count_private=true" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeLxL&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&layout=compact&hide_border=true" />
-</p>
+<div display="flex" flexWrap="wrap">
+<img src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true&theme=radical" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeLxL&theme=radical" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&langs_count=6&theme=radical&layout=compact" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GeorgeLxL&theme=radical&utcOffset=8" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeorgeLxL&theme=2077" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeorgeLxL&theme=2077" display="inline-block" maxWidth="50%" height="300px" alt="Sato Takeru" />
+</div>
 
 ---
 
