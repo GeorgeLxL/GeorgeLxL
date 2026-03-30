@@ -50,7 +50,12 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgeLxL&theme=2077"  display=block width=100% height=auto  alt="Sato Takeru" >
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-card/profile-dark.svg" />
+    <img alt="3D contribution graph" src="./profile-card/profile-light.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>

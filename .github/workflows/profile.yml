@@ -10,8 +10,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats (light)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          USERNAME: ${{ github.repository_owner }}
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile-card/profile-light.svg
+          theme: default
+          hide-border: true
+
+      - name: Generate streak stats (dark)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile-card/profile-dark.svg
+          theme: dark
+          hide-border: true
+
+      - name: Commit changes
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "10914960+0x0Zeus@users.noreply.github.com"
+          git add profile-card/*.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
+
