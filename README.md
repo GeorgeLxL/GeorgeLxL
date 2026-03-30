@@ -52,7 +52,7 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/chartreuse_dark/0-profile-details.svg" />
     <img alt="3D contribution graph" src="./profile-summary-card-output/default/0-profile-details.svg" />
   </picture>
 </div>
