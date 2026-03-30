@@ -1,39 +1,23 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate streak stats (light)
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: profile-card/profile-light.svg
-          theme: default
-          hide-border: true
-
-      - name: Generate streak stats (dark)
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: profile-card/profile-dark.svg
-          theme: dark
-          hide-border: true
-
-      - name: Commit changes
-        run: |
-          git config user.name "${{ github.actor }}"
-          git config user.email "10914960+0x0Zeus@users.noreply.github.com"
-          git add profile-card/*.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
-
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          AUTO_PUSH: true
