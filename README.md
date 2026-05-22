@@ -50,6 +50,13 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 ## 📊 GitHub Stats
 
+<div>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=GeorgeLxL"
+    style="width: 100%;"
+  />
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/chartreuse_dark/0-profile-details.svg" />
