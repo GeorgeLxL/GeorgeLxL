@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=ERP+System+Developer;Full-Stack+%7C+AI+Developer;Mobile+App+Developer&font=Pacifico&center=true&width=850&height=120&color=58cf3c&vCenter=true&size=45" />
 </h1>
 
-[Email Me](mailto:crownelf4@gmail.com) | [Portfolio](https://sato-takeru.netlify.app)
+[Email Me](mailto:sato.takeru6611@gmail.com) | [Portfolio](https://sato-takeru.netlify.app)
 
 ---
 
