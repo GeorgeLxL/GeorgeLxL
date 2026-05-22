@@ -42,7 +42,7 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 ## 📫 Contact Me
 
-- Email: [crownelf4@gmail.com](mailto:crownelf4@gmail.com)  
+- Email: [sato.takeru6611@gmail.com](mailto:sato.takeru6611@gmail.com)  
 - Portfolio: [https://sato-takeru.netlify.app](https://sato-takeru.netlify.app)  
 - GitHub: [https://github.com/GeorgeLxL](https://github.com/GeorgeLxL)  
 
