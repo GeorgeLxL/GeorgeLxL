@@ -40,7 +40,7 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 ## 📫 Contact Me
 
-- Email: [crownelf4@gmail.com](mailto:crownelf4@gmail.com)  
+- Email: [sato.takeru05@gmail.com](mailto:sato.takeru05@gmail.com)  
 - Portfolio: [https://sato-takeru.vercel.app](https://sato-takeru.vercel.app)  
 
 ---
