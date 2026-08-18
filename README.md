@@ -56,6 +56,23 @@ I am a Senior Software Engineer with 10+ years of experience in **ERP systems, f
 
 <div align="center">
   <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GeorgeLxL/GeorgeLxL/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GeorgeLxL/GeorgeLxL/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/GeorgeLxL/GeorgeLxL/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
     <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green.svg" />
   </picture>
